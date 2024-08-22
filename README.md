@@ -11,7 +11,7 @@ Dataset: The IMDB dataset consists of 50,000 movie reviews used for sentiment an
 
 Training Set: 25,000 reviews.
 Test Set: 25,000 reviews.
-Source: The dataset can be downloaded from Kaggle IMDB Dataset.
+Source: The dataset can be downloaded from Kaggle IMDB Dataset:- https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 Task: Binary sentiment classification (positive or negative reviews).
 
